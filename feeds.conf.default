@@ -11,4 +11,4 @@ src-git small https://github.com/kenzok8/small
 src-git kuoruan https://github.com/kuoruan/openwrt-frp
 src-git-full luci https://github.com/openwrt/luci.git
 src-git-full packages https://github.com/openwrt/packages.git
-src-git kuoruan https://github.com/kuoruan/openwrt-frp
+
